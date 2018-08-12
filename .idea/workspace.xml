@@ -1,122 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c59e14f1-e253-4631-b4ed-753f131f5c66" name="Default" comment="del dead code.">
+    <list default="true" id="c59e14f1-e253-4631-b4ed-753f131f5c66" name="Default" comment="del dead code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aboutus.htm" beforeDir="false" afterPath="$PROJECT_DIR$/aboutus.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aboutus/2-layout.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aboutus/QuotaService.RecordEvent" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aboutus/about-us-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aboutus/about-us-headshot-1-square.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aboutus/about-us-headshot-2-square.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aboutus/about-us-headshot-3-square.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aboutus/cmdline_frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aboutus/css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aboutus/css(1)" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aboutus/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aboutus/google4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aboutus/js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aboutus/kh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aboutus/mapcnt6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aboutus/maps.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aboutus/photo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aboutus/saved_resource(1).html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aboutus/saved_resource.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aboutus/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aboutus/style.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aboutus/vt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/aboutus/vt(1)" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contactus.htm" beforeDir="false" afterPath="$PROJECT_DIR$/contactus.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contactus/19-layout.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contactus/AuthenticationService(1).Authenticate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contactus/AuthenticationService.Authenticate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contactus/QuotaService(1).RecordEvent" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contactus/QuotaService.RecordEvent" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contactus/ViewportInfoService.GetViewportInfo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contactus/cmdline_frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contactus/css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contactus/css(1)" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contactus/dashicons.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contactus/display-structure.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contactus/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contactus/google4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contactus/js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contactus/kh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contactus/mapcnt6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contactus/maps(1).html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contactus/maps.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contactus/photo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contactus/saved_resource(1).html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contactus/saved_resource(2).html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contactus/saved_resource(3).html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contactus/saved_resource.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contactus/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contactus/style.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contactus/vt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contactus/vt(1)" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/faq.htm" beforeDir="false" afterPath="$PROJECT_DIR$/faq.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/faq/235-layout.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/faq/AuthenticationService.Authenticate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/faq/QuotaService.RecordEvent" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/faq/ViewportInfoService.GetViewportInfo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/faq/cmdline_frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/faq/css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/faq/css(1)" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/faq/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/faq/google4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/faq/kh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/faq/mapcnt6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/faq/maps.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/faq/photo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/faq/saved_resource(1).html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/faq/saved_resource.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/faq/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/faq/style.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/faq/vt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/faq/vt(1)" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/156-layout.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/cmdline_frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/css(1)" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/google4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/home-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/home-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/home-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/home-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/kh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/mapcnt6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/maps.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/photo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/saved_resource(1).html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/saved_resource.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/style.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/vt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/vt(1)" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service.htm" beforeDir="false" afterPath="$PROJECT_DIR$/service.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/158-layout.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/AuthenticationService.Authenticate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/QuotaService(1).RecordEvent" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/QuotaService.RecordEvent" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/ViewportInfoService.GetViewportInfo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/cmdline_frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/css(1)" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/google4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/kh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/mapcnt6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/maps.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/photo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/saved_resource(1).html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/saved_resource.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/services-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/services-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/style.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/vt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/vt(1)" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -133,11 +19,66 @@
       <file leaf-file-name="index.htm" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="1542">
+              <caret line="613" column="39" selection-start-line="613" selection-start-column="39" selection-end-line="613" selection-end-column="39" />
               <folding>
-                <element signature="n#style#2;n#head#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#img#0;n#aside#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="weixin.JPG" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/ty_img/weixin.JPG">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="font-awesome.min.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/font-awesome.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="3" column="1962" selection-start-line="3" selection-start-column="217" selection-end-line="3" selection-end-column="1962" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="font-awesome.min.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fonts/font-awesome.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="3" column="1997" selection-start-line="3" selection-start-column="1997" selection-end-line="3" selection-end-column="1997" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="service.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="554" column="28" selection-start-line="554" selection-start-column="28" selection-end-line="554" selection-end-column="28" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#aside#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="services-1.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/services-1.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="services-2.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/services-2.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="contactus.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contactus.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2187">
+              <caret line="723" column="77" selection-start-line="723" selection-start-column="77" selection-end-line="723" selection-end-column="77" />
             </state>
           </provider>
         </entry>
@@ -145,10 +86,10 @@
       <file leaf-file-name="faq.htm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/faq.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="607" column="33" lean-forward="true" selection-start-line="607" selection-start-column="33" selection-end-line="607" selection-end-column="33" />
+            <state relative-caret-position="94">
+              <caret line="405" column="28" selection-start-line="405" selection-start-column="28" selection-end-line="405" selection-end-column="28" />
               <folding>
-                <element signature="e#31466#31510#0" />
+                <element signature="n#style#0;n#img#0;n#aside#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -157,63 +98,69 @@
       <file leaf-file-name="aboutus.htm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/aboutus.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+            <state relative-caret-position="77">
+              <caret line="609" column="28" selection-start-line="609" selection-start-column="28" selection-end-line="609" selection-end-column="28" />
               <folding>
-                <element signature="e#45827#45871#0" />
+                <element signature="n#style#0;n#img#0;n#aside#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contactus.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contactus.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="service.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="56">
-              <caret line="242" column="19" selection-start-line="242" selection-start-column="19" selection-end-line="242" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>确定 WordPress 主题</find>
-      <find>公司名称</find>
-      <find>WordPress 主题</find>
-      <find>\— 通过 \&lt;a href\=\&quot;https\:\/\/www\.godaddy\.com\/\&quot; rel\=\&quot;author nofollow\&quot;\&gt;GoDaddy\&lt;\/a\&gt; 确定\n                    WordPress 主题 Ascension</find>
-      <find>https://wpnux.godaddy.com/</find>
-      <find>https://wpnux.godaddy.com/?regionsite=sg&amp;theme=ascension&amp;marketid=zh-SG&amp;isc=gennbacn01</find>
-      <find>menu-item-169</find>
-      <find>https://wpnux.godaddy.com/%e6%9c%8d%e5%8a%a1/?regionsite=sg&amp;theme=ascension&amp;marketid=zh-SG&amp;isc=gennbacn01</find>
-      <find>&lt;div class=&quot;site-title&quot;&gt;&lt;a</find>
-      <find>`</find>
-      <find>&lt;div class=&quot;site-title&quot;&gt;</find>
-      <find>site-title</find>
-      <find>&lt;script.*script&gt;</find>
-      <find>&lt;script</find>
-      <find>index</find>
-      <find>faq/</find>
-      <find>index/</find>
-      <find>aboutus/</find>
-      <find>contactus/</find>
-      <find>service/</find>
+      <find>nf-display-css</find>
+      <find>(555) 555-5555</find>
+      <find>1234 Santa Monica Blvd</find>
+      <find>email@yourbusiness.com</find>
+      <find>中国的河北 沧州市</find>
+      <find>+ (86) 186 3178 3880</find>
+      <find>e&amp;#109;ai&amp;#108;&amp;#64;y&amp;#111;&amp;#117;&amp;#114;b&amp;#117;&amp;#115;ines&amp;#115;.com</find>
+      <find>&lt;a href=&quot;contactus.htm&quot;&gt;联系我们&lt;/a&gt;</find>
+      <find>联系我们</find>
+      <find>问问</find>
+      <find>沧州腾雅精通机床制造有限公司</find>
+      <find>156-layout.css</find>
+      <find>style.min.css</find>
+      <find>dashicons-css</find>
+      <find>/home</find>
+      <find>godaddy</find>
+      <find>http</find>
+      <find>fonts.gstatic.com</find>
+      <find>https://fonts.gstatic.com</find>
+      <find>css(1)</find>
+      <find>css(1</find>
+      <find>res/css</find>
+      <find>dituContent</find>
+      <find>&lt;li class=&quot;has-map&quot;&gt;</find>
+      <find>font</find>
+      <find>font-awesome.min.css</find>
+      <find>//fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C700&amp;subset=latin&amp;ver=4.9.8&amp;regionsite=sg&amp;theme=ascension&amp;marketid=zh-SG&amp;isc=gennbacn01</find>
+      <find>fontawesome-webfont.ttf?v=4.7.0</find>
+      <find>map</find>
+      <find>Beverly Hills, CA 90210</find>
     </findStrings>
     <replaceStrings>
       <replace>/</replace>
       <replace>腾雅精通</replace>
       <replace />
       <replace>res/</replace>
+      <replace>service@tengyajingtong.com</replace>
+      <replace>+ (86) 186 3178 3880</replace>
+      <replace>中国的河北 沧州市</replace>
+      <replace>中国河北 沧州市</replace>
+      <replace>+ (86) 130 2333 4910</replace>
+      <replace>试试</replace>
+      <replace>东光县 南霞口镇工业园区 112号</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -225,11 +172,20 @@
         <option value="$PROJECT_DIR$/index/index.htm" />
         <option value="$PROJECT_DIR$/aboutus/2-layout.js" />
         <option value="$PROJECT_DIR$/aboutus/maps.html" />
-        <option value="$PROJECT_DIR$/aboutus.htm" />
-        <option value="$PROJECT_DIR$/service.htm" />
-        <option value="$PROJECT_DIR$/faq.htm" />
+        <option value="$PROJECT_DIR$/res/2-layout.css" />
+        <option value="$PROJECT_DIR$/res/19-layout.css" />
+        <option value="$PROJECT_DIR$/res/156-layout.css" />
+        <option value="$PROJECT_DIR$/res/158-layout.css" />
+        <option value="$PROJECT_DIR$/res/235-layout.css" />
+        <option value="$PROJECT_DIR$/res/font-awesome.min.css" />
+        <option value="$PROJECT_DIR$/res/display-structure.css" />
+        <option value="$PROJECT_DIR$/res/dashicons.min.css" />
+        <option value="$PROJECT_DIR$/test.html" />
         <option value="$PROJECT_DIR$/contactus.htm" />
         <option value="$PROJECT_DIR$/index.htm" />
+        <option value="$PROJECT_DIR$/aboutus.htm" />
+        <option value="$PROJECT_DIR$/faq.htm" />
+        <option value="$PROJECT_DIR$/service.htm" />
       </list>
     </option>
   </component>
@@ -270,6 +226,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -278,10 +235,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/aboutus_files" />
+      <recent name="$PROJECT_DIR$/res/ty_img" />
+      <recent name="$PROJECT_DIR$/fonts" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/aboutus_files" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/fonts" />
+      <recent name="$PROJECT_DIR$/res" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/index" />
       <recent name="$PROJECT_DIR$" />
@@ -310,7 +271,8 @@
       <option name="presentableId" value="Default" />
       <updated>1533995204058</updated>
       <workItem from="1533995205220" duration="7240000" />
-      <workItem from="1534040152137" duration="3782000" />
+      <workItem from="1534040152137" duration="16956000" />
+      <workItem from="1534068056871" duration="4052000" />
     </task>
     <task id="LOCAL-00001" summary="del dead code.">
       <created>1534043126894</created>
@@ -326,26 +288,123 @@
       <option name="project" value="LOCAL" />
       <updated>1534043515455</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ddd">
+      <created>1534044522582</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1534044522582</updated>
+    </task>
+    <task id="LOCAL-00004" summary="hero">
+      <created>1534045119995</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1534045119995</updated>
+    </task>
+    <task id="LOCAL-00005" summary="map">
+      <created>1534045824887</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1534045824887</updated>
+    </task>
+    <task id="LOCAL-00006" summary="del dead code">
+      <created>1534048297111</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1534048297111</updated>
+    </task>
+    <task id="LOCAL-00007" summary="del dead code">
+      <created>1534050333465</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1534050333465</updated>
+    </task>
+    <task id="LOCAL-00008" summary="首页，替换内容及联系方式。">
+      <created>1534052803681</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1534052803681</updated>
+    </task>
+    <task id="LOCAL-00009" summary="去掉联系我们。">
+      <created>1534053570157</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1534053570157</updated>
+    </task>
+    <task id="LOCAL-00010" summary="修改部分内容。">
+      <created>1534058125835</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1534058125835</updated>
+    </task>
+    <task id="LOCAL-00011" summary="strong the name.">
+      <created>1534058432827</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1534058432827</updated>
+    </task>
+    <task id="LOCAL-00012" summary="修改内容。">
+      <created>1534058748926</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1534058748926</updated>
+    </task>
+    <task id="LOCAL-00013" summary="删除外链资源。">
+      <created>1534061280540</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1534061280540</updated>
+    </task>
+    <task id="LOCAL-00014" summary="删除地图">
+      <created>1534069689516</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1534069689516</updated>
+    </task>
+    <task id="LOCAL-00015" summary="添加字体。">
+      <created>1534070873598</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1534070873598</updated>
+    </task>
+    <task id="LOCAL-00016" summary="添加微信。">
+      <created>1534071955367</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1534071955367</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11022000" />
+    <option name="totallyTimeSpent" value="28248000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1057" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15376514" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2390732" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" weight="0.25208333" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32916668" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32916668" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32916668" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -354,6 +413,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.54583335" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -364,55 +424,31 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="del dead code." />
-    <option name="LAST_COMMIT_MESSAGE" value="del dead code." />
+    <MESSAGE value="ddd" />
+    <MESSAGE value="hero" />
+    <MESSAGE value="map" />
+    <MESSAGE value="del dead code" />
+    <MESSAGE value="首页，替换内容及联系方式。" />
+    <MESSAGE value="去掉联系我们。" />
+    <MESSAGE value="修改部分内容。" />
+    <MESSAGE value="strong the name." />
+    <MESSAGE value="修改内容。" />
+    <MESSAGE value="删除外链资源。" />
+    <MESSAGE value="删除地图" />
+    <MESSAGE value="添加字体。" />
+    <MESSAGE value="添加微信。" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加微信。" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14559">
-          <caret line="633" column="17" selection-start-line="633" selection-start-column="17" selection-end-line="633" selection-end-column="17" />
-          <folding>
-            <element signature="n#style#2;n#head#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/vt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/faq.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6900">
-          <caret line="300" selection-start-line="300" selection-end-line="300" />
-          <folding>
-            <element signature="e#31466#31510#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aboutus/maps.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3933">
-          <caret line="171" column="25" lean-forward="true" selection-start-line="171" selection-start-column="25" selection-end-line="171" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/aboutus.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="11684">
           <caret line="508" column="39" selection-start-line="508" selection-start-column="39" selection-end-line="508" selection-end-column="39" />
-          <folding>
-            <element signature="e#45827#45871#0" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contactus/css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aboutus/css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/contactus/css" />
+    <entry file="file://$PROJECT_DIR$/aboutus/css" />
     <entry file="file://$PROJECT_DIR$/contactus.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="11661">
@@ -427,79 +463,245 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index/home-3.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index/home-2.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index/home-1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aboutus/js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aboutus/2-layout.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contactus/css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aboutus/css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/index/home-3.jpg" />
+    <entry file="file://$PROJECT_DIR$/index/home-2.jpg" />
+    <entry file="file://$PROJECT_DIR$/index/home-1.jpg" />
+    <entry file="file://$PROJECT_DIR$/aboutus/js" />
+    <entry file="file://$PROJECT_DIR$/aboutus/2-layout.css" />
+    <entry file="file://$PROJECT_DIR$/contactus/css" />
+    <entry file="file://$PROJECT_DIR$/aboutus/css" />
     <entry file="file://$PROJECT_DIR$/aboutus/2-layout.js" />
     <entry file="file://$PROJECT_DIR$/index/js" />
-    <entry file="file://$PROJECT_DIR$/service/vt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aboutus/maps.html">
+    <entry file="file://$PROJECT_DIR$/service/vt" />
+    <entry file="file://$PROJECT_DIR$/aboutus/maps.html" />
+    <entry file="file://$PROJECT_DIR$/res/saved_resource(2).html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3933">
-          <caret line="171" column="25" lean-forward="true" selection-start-line="171" selection-start-column="25" selection-end-line="171" selection-end-column="25" />
+        <state relative-caret-position="46">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contactus.htm">
+    <entry file="file://$PROJECT_DIR$/res/19-layout.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="60" column="21" lean-forward="true" selection-start-line="60" selection-start-column="21" selection-end-line="60" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/156-layout.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <caret line="58" column="14" lean-forward="true" selection-start-line="58" selection-start-column="14" selection-end-line="58" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/158-layout.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1082">
+          <caret line="120" lean-forward="true" selection-start-line="120" selection-end-line="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/display-structure.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret column="2302" lean-forward="true" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/js" />
+    <entry file="file://$PROJECT_DIR$/res/235-layout.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3334">
+          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/about-us-headshot-1-square.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/about-us-headshot-2-square.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="203" column="21" lean-forward="true" selection-start-line="203" selection-start-column="21" selection-end-line="203" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/dashicons.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="36408" lean-forward="true" selection-end-line="1" selection-end-column="46325" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/hero.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/home-4.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/google4.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/about-us-headshot-3-square.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/css(1)">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="87" lean-forward="true" selection-start-line="5" selection-start-column="62" selection-end-line="5" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/maps(1).html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3181">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/maps.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4087">
+          <caret line="183" column="26" selection-start-line="183" selection-start-column="26" selection-end-line="183" selection-end-column="26" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/mapcnt6.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/photo.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/vt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/saved_resource(1).html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/cmdline_frame.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/2-layout.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="1420" column="33" lean-forward="true" selection-start-line="1420" selection-start-column="33" selection-end-line="1420" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/services-1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/services-2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fonts/font-awesome.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="3" column="1997" selection-start-line="3" selection-start-column="1997" selection-end-line="3" selection-end-column="1997" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/font-awesome.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="3" column="1962" selection-start-line="3" selection-start-column="217" selection-end-line="3" selection-end-column="1962" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/ty_img/weixin.JPG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contactus.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2187">
+          <caret line="723" column="77" selection-start-line="723" selection-start-column="77" selection-end-line="723" selection-end-column="77" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/aboutus.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+        <state relative-caret-position="77">
+          <caret line="609" column="28" selection-start-line="609" selection-start-column="28" selection-end-line="609" selection-end-column="28" />
           <folding>
-            <element signature="e#45827#45871#0" />
+            <element signature="n#style#0;n#img#0;n#aside#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faq.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="405" column="28" selection-start-line="405" selection-start-column="28" selection-end-line="405" selection-end-column="28" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#aside#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/service.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="242" column="19" selection-start-line="242" selection-start-column="19" selection-end-line="242" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/faq.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="607" column="33" lean-forward="true" selection-start-line="607" selection-start-column="33" selection-end-line="607" selection-end-column="33" />
+        <state relative-caret-position="136">
+          <caret line="554" column="28" selection-start-line="554" selection-start-column="28" selection-end-line="554" selection-end-column="28" />
           <folding>
-            <element signature="e#31466#31510#0" />
+            <element signature="n#style#0;n#img#0;n#aside#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="1542">
+          <caret line="613" column="39" selection-start-line="613" selection-start-column="39" selection-end-line="613" selection-end-column="39" />
           <folding>
-            <element signature="n#style#2;n#head#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#img#0;n#aside#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>
