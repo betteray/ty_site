@@ -1,7 +1,123 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c59e14f1-e253-4631-b4ed-753f131f5c66" name="Default" comment="" />
+    <list default="true" id="c59e14f1-e253-4631-b4ed-753f131f5c66" name="Default" comment="del dead code.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aboutus.htm" beforeDir="false" afterPath="$PROJECT_DIR$/aboutus.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aboutus/2-layout.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aboutus/QuotaService.RecordEvent" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aboutus/about-us-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aboutus/about-us-headshot-1-square.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aboutus/about-us-headshot-2-square.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aboutus/about-us-headshot-3-square.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aboutus/cmdline_frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aboutus/css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aboutus/css(1)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aboutus/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aboutus/google4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aboutus/js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aboutus/kh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aboutus/mapcnt6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aboutus/maps.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aboutus/photo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aboutus/saved_resource(1).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aboutus/saved_resource.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aboutus/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aboutus/style.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aboutus/vt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aboutus/vt(1)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contactus.htm" beforeDir="false" afterPath="$PROJECT_DIR$/contactus.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contactus/19-layout.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contactus/AuthenticationService(1).Authenticate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contactus/AuthenticationService.Authenticate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contactus/QuotaService(1).RecordEvent" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contactus/QuotaService.RecordEvent" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contactus/ViewportInfoService.GetViewportInfo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contactus/cmdline_frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contactus/css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contactus/css(1)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contactus/dashicons.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contactus/display-structure.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contactus/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contactus/google4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contactus/js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contactus/kh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contactus/mapcnt6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contactus/maps(1).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contactus/maps.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contactus/photo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contactus/saved_resource(1).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contactus/saved_resource(2).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contactus/saved_resource(3).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contactus/saved_resource.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contactus/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contactus/style.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contactus/vt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contactus/vt(1)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/faq.htm" beforeDir="false" afterPath="$PROJECT_DIR$/faq.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/faq/235-layout.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/faq/AuthenticationService.Authenticate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/faq/QuotaService.RecordEvent" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/faq/ViewportInfoService.GetViewportInfo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/faq/cmdline_frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/faq/css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/faq/css(1)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/faq/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/faq/google4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/faq/kh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/faq/mapcnt6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/faq/maps.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/faq/photo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/faq/saved_resource(1).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/faq/saved_resource.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/faq/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/faq/style.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/faq/vt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/faq/vt(1)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/156-layout.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/cmdline_frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/css(1)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/google4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/home-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/home-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/home-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/home-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/kh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/mapcnt6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/maps.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/photo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/saved_resource(1).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/saved_resource.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/style.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/vt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index/vt(1)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service.htm" beforeDir="false" afterPath="$PROJECT_DIR$/service.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/158-layout.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/AuthenticationService.Authenticate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/QuotaService(1).RecordEvent" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/QuotaService.RecordEvent" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/ViewportInfoService.GetViewportInfo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/cmdline_frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/css(1)" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/google4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/kh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/mapcnt6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/maps.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/photo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/saved_resource(1).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/saved_resource.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/services-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/services-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/style.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/vt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/vt(1)" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -13,78 +129,57 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../ty_site/index.htm">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.htm" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="643">
-              <caret line="723" column="9" selection-start-line="723" selection-start-column="9" selection-end-line="723" selection-end-column="9" />
+            <state relative-caret-position="276">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="n#style#2;n#head#0;n#html#0;n#!!top" />
+              </folding>
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="vt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../ty_site/service/vt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1593" />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="faq.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../ty_site/faq.htm">
+        <entry file="file://$PROJECT_DIR$/faq.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="300" selection-start-line="300" selection-end-line="300" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="maps.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../ty_site/aboutus/maps.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1462">
-              <caret line="171" column="25" lean-forward="true" selection-start-line="171" selection-start-column="25" selection-end-line="171" selection-end-column="25" />
+            <state relative-caret-position="350">
+              <caret line="607" column="33" lean-forward="true" selection-start-line="607" selection-start-column="33" selection-end-line="607" selection-end-column="33" />
+              <folding>
+                <element signature="e#31466#31510#0" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="aboutus.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../ty_site/aboutus.htm">
+        <entry file="file://$PROJECT_DIR$/aboutus.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="508" column="39" selection-start-line="508" selection-start-column="39" selection-end-line="508" selection-end-column="39" />
+            <state relative-caret-position="432">
+              <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+              <folding>
+                <element signature="e#45827#45871#0" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../ty_site/contactus/css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-59" />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../ty_site/aboutus/css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-31" />
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="contactus.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../ty_site/contactus.htm">
+        <entry file="file://$PROJECT_DIR$/contactus.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="507" column="39" selection-start-line="507" selection-start-column="39" selection-end-line="507" selection-end-column="39" />
+            <state relative-caret-position="253">
+              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="service.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../ty_site/service.htm">
+        <entry file="file://$PROJECT_DIR$/service.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="248" column="12" lean-forward="true" selection-start-line="248" selection-start-column="12" selection-end-line="248" selection-end-column="12" />
+            <state relative-caret-position="56">
+              <caret line="242" column="19" selection-start-line="242" selection-start-column="19" selection-end-line="242" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -105,26 +200,36 @@
       <find>`</find>
       <find>&lt;div class=&quot;site-title&quot;&gt;</find>
       <find>site-title</find>
-      <find>&lt;script</find>
       <find>&lt;script.*script&gt;</find>
+      <find>&lt;script</find>
+      <find>index</find>
+      <find>faq/</find>
+      <find>index/</find>
+      <find>aboutus/</find>
+      <find>contactus/</find>
+      <find>service/</find>
     </findStrings>
     <replaceStrings>
       <replace>/</replace>
       <replace>腾雅精通</replace>
       <replace />
+      <replace>res/</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../ty_site/index/index.htm" />
-        <option value="$PROJECT_DIR$/../ty_site/aboutus.htm" />
-        <option value="$PROJECT_DIR$/../ty_site/contactus.htm" />
-        <option value="$PROJECT_DIR$/../ty_site/faq.htm" />
-        <option value="$PROJECT_DIR$/../ty_site/aboutus/2-layout.js" />
-        <option value="$PROJECT_DIR$/../ty_site/index.htm" />
-        <option value="$PROJECT_DIR$/../ty_site/service.htm" />
-        <option value="$PROJECT_DIR$/../ty_site/aboutus/maps.html" />
+        <option value="$PROJECT_DIR$/index/index.htm" />
+        <option value="$PROJECT_DIR$/aboutus/2-layout.js" />
+        <option value="$PROJECT_DIR$/aboutus/maps.html" />
+        <option value="$PROJECT_DIR$/aboutus.htm" />
+        <option value="$PROJECT_DIR$/service.htm" />
+        <option value="$PROJECT_DIR$/faq.htm" />
+        <option value="$PROJECT_DIR$/contactus.htm" />
+        <option value="$PROJECT_DIR$/index.htm" />
       </list>
     </option>
   </component>
@@ -142,11 +247,15 @@
     <option name="width" value="1920" />
     <option name="height" value="1057" />
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -158,23 +267,23 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/../ty_site/aboutus_files" />
-      <recent name="$PROJECT_DIR$/../ty_site" />
+      <recent name="$PROJECT_DIR$/aboutus_files" />
+      <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/../ty_site" />
-      <recent name="$PROJECT_DIR$/../ty_site/index" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/index" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -200,31 +309,48 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1533995204058</updated>
-      <workItem from="1533995205220" duration="6659000" />
+      <workItem from="1533995205220" duration="7240000" />
+      <workItem from="1534040152137" duration="3782000" />
     </task>
+    <task id="LOCAL-00001" summary="del dead code.">
+      <created>1534043126894</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1534043126894</updated>
+    </task>
+    <task id="LOCAL-00002" summary="del dead code.">
+      <created>1534043515455</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1534043515455</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6659000" />
+    <option name="totallyTimeSpent" value="11022000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1057" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2421875" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15376514" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.25208333" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32916668" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -236,88 +362,145 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="del dead code." />
+    <option name="LAST_COMMIT_MESSAGE" value="del dead code." />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../ty_site/index/home-3.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ty_site/index/home-2.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ty_site/index/home-1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ty_site/aboutus/js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ty_site/aboutus/2-layout.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ty_site/contactus/css">
+    <entry file="file://$PROJECT_DIR$/index.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-59" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ty_site/aboutus/css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-31" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ty_site/aboutus.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="508" column="39" selection-start-line="508" selection-start-column="39" selection-end-line="508" selection-end-column="39" />
+        <state relative-caret-position="14559">
+          <caret line="633" column="17" selection-start-line="633" selection-start-column="17" selection-end-line="633" selection-end-column="17" />
+          <folding>
+            <element signature="n#style#2;n#head#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../ty_site/contactus.htm">
+    <entry file="file://$PROJECT_DIR$/service/vt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faq.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
+        <state relative-caret-position="6900">
+          <caret line="300" selection-start-line="300" selection-end-line="300" />
+          <folding>
+            <element signature="e#31466#31510#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aboutus/maps.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3933">
+          <caret line="171" column="25" lean-forward="true" selection-start-line="171" selection-start-column="25" selection-end-line="171" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aboutus.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11684">
+          <caret line="508" column="39" selection-start-line="508" selection-start-column="39" selection-end-line="508" selection-end-column="39" />
+          <folding>
+            <element signature="e#45827#45871#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contactus/css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aboutus/css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contactus.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11661">
           <caret line="507" column="39" selection-start-line="507" selection-start-column="39" selection-end-line="507" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../ty_site/aboutus/2-layout.js">
+    <entry file="file://$PROJECT_DIR$/service.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="548">
-          <caret line="94" column="13" lean-forward="true" selection-start-line="94" selection-start-column="13" selection-end-line="94" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ty_site/index/js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-905" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ty_site/service/vt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1593" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ty_site/index.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="643">
-          <caret line="723" column="9" selection-start-line="723" selection-start-column="9" selection-end-line="723" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ty_site/service.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
+        <state relative-caret-position="5704">
           <caret line="248" column="12" lean-forward="true" selection-start-line="248" selection-start-column="12" selection-end-line="248" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../ty_site/faq.htm">
+    <entry file="file://$PROJECT_DIR$/index/home-3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index/home-2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index/home-1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aboutus/js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aboutus/2-layout.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contactus/css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aboutus/css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aboutus/2-layout.js" />
+    <entry file="file://$PROJECT_DIR$/index/js" />
+    <entry file="file://$PROJECT_DIR$/service/vt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aboutus/maps.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="300" selection-start-line="300" selection-end-line="300" />
+        <state relative-caret-position="3933">
+          <caret line="171" column="25" lean-forward="true" selection-start-line="171" selection-start-column="25" selection-end-line="171" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../ty_site/aboutus/maps.html">
+    <entry file="file://$PROJECT_DIR$/contactus.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1462">
-          <caret line="171" column="25" lean-forward="true" selection-start-line="171" selection-start-column="25" selection-end-line="171" selection-end-column="25" />
+        <state relative-caret-position="253">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aboutus.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+          <folding>
+            <element signature="e#45827#45871#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="242" column="19" selection-start-line="242" selection-start-column="19" selection-end-line="242" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faq.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="607" column="33" lean-forward="true" selection-start-line="607" selection-start-column="33" selection-end-line="607" selection-end-column="33" />
+          <folding>
+            <element signature="e#31466#31510#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="n#style#2;n#head#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
